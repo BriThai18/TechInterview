@@ -6,3 +6,8 @@ that I would be studying and uploading the codes for me to look over.
 
 # Table of Content
 ## Sorting Algorithm
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+Bubble Sort
