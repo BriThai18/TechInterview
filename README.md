@@ -6,8 +6,8 @@ that I would be studying and uploading the codes for me to look over.
 
 # Table of Content
 ## Sorting Algorithm
-Selection Sort
-Insertion Sort
-Merge Sort
-Quick Sort
-Bubble Sort
+Selection Sort <br/>
+Insertion Sort <br/>
+Merge Sort <br/>
+Quick Sort <br/>
+Bubble Sort <br/>
