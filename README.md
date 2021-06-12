@@ -6,10 +6,10 @@ that I would be studying and uploading the codes for me to look over.
 
 # Table of Content
 ## Sorting Algorithm
-Selection Sort <br/>
-Insertion Sort <br/>
-Merge Sort <br/>
-Quick Sort <br/>
-Bubble Sort <br/>
+- Selection Sort <br/>
+- sertion Sort <br/>
+- Merge Sort <br/>
+- Quick Sort <br/>
+- Bubble Sort <br/>
 ## Linked List
 ## Binary Search Tree
