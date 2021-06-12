@@ -12,3 +12,4 @@ Merge Sort <br/>
 Quick Sort <br/>
 Bubble Sort <br/>
 ## Linked List
+## Binary Search Tree
