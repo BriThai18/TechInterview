@@ -12,6 +12,12 @@ that I would be studying and uploading the codes for me to look over.
 - Quick Sort <br/>
 - Bubble Sort <br/>
 ## Linked List
+- Sum List
+- Remove Duplicates
+- Delete Middle Node
+- Merge Two Sorted Lists
+- Partition
+- Palindrome
 ## Binary Search Tree
 ## Stack
 ## Queue
