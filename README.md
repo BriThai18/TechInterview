@@ -6,11 +6,11 @@ that I would be studying and uploading the codes for me to look over.
 
 # Table of Content
 ## Sorting Algorithm
-- Selection Sort <br/>
-- sertion Sort <br/>
-- Merge Sort <br/>
-- Quick Sort <br/>
-- Bubble Sort <br/>
+- Selection Sort
+- Insertion Sort 
+- Merge Sort
+- Quick Sort
+- Bubble Sort 
 ## Linked List
 - Sum List
 - Remove Duplicates
