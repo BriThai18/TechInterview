@@ -19,5 +19,8 @@ that I would be studying and uploading the codes for me to look over.
 - Partition
 - Palindrome
 ## Binary Search Tree
+- Inorder Traversal
+- Preorder Traversal
+- Postorder Traversal
 ## Stack
 ## Queue
