@@ -22,7 +22,7 @@ that I would be studying and uploading the codes for me to look over.
 - Inorder Traversal
 - Preorder Traversal
 - Postorder Traversal
-- First Common Ancestor
 - Lowest Common Ancestor
+- Check Balanced
 ## Stack
 ## Queue
