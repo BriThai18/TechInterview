@@ -24,5 +24,9 @@ that I would be studying and uploading the codes for me to look over.
 - Postorder Traversal
 - Lowest Common Ancestor
 - Check Balanced
+- Valid BST
+- Max Depth
+- Min Depth
+- Path with Sum
 ## Stack
 ## Queue
