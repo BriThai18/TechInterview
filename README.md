@@ -29,4 +29,6 @@ that I would be studying and uploading the codes for me to look over.
 - Min Depth
 - Path with Sum
 ## Stack
+- Stack min
+- Sort stack
 ## Queue
