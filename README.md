@@ -31,4 +31,6 @@ that I would be studying and uploading the codes for me to look over.
 ## Stack
 - Stack min
 - Sort stack
+- Valid Parentheses
+- Remove All Adjacent Duplicates
 ## Queue
