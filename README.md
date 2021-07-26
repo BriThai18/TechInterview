@@ -40,3 +40,4 @@ that I would be studying and uploading the codes for me to look over.
 - Most Common Word
 - Unique Number of Occurences
 - Contains Duplicate
+- Sort Characters By Frequency
