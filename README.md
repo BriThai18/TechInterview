@@ -36,3 +36,4 @@ that I would be studying and uploading the codes for me to look over.
 ## Queue
 - Queue via Stack
 ## Map
+- First Unique Character
