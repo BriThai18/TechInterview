@@ -35,7 +35,7 @@ that I would be studying and uploading the codes for me to look over.
 - Remove All Adjacent Duplicates
 ## Queue
 - Queue via Stack
-## Hash Table
+## Hashmap
 - First Unique Character
 - Most Common Word
 - Unique Number of Occurences
