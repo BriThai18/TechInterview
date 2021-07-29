@@ -8,6 +8,7 @@ public class Palindrome{
       data = num;
       next = null; 
     }
+  }
     static Node reverseList(Node node){
       Node prev = null;
       
@@ -40,5 +41,4 @@ public class Palindrome{
       }
       return true;
     }
-  }
 }
