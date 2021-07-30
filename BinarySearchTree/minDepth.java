@@ -18,3 +18,5 @@ public class minDepth{
     return Math.min(left, right) + 1; 
   }
 }
+
+//Runtime o(n)
