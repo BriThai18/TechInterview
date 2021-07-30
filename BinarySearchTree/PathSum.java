@@ -19,3 +19,5 @@ public class PathSum{
     return getPath(node.left, target-node.data) || getPath(node.right, target-node.data);
   }
 }
+
+//Runtime o(n)
