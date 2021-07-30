@@ -31,3 +31,4 @@ public class SumList{
     return dummy.next; 
   }
 }
+//Runtime o(m+n) m and n are the length of both list 
