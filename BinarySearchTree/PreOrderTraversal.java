@@ -22,5 +22,5 @@ public class PreOrderTraversal{
     }
   }
 }
-
 //Runtime o(n)
+//Space o(n)
