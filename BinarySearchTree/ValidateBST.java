@@ -27,4 +27,4 @@ public class ValidateBST{
 }
 
 //Runtime o(n)
-//Space o(1)
+//Space o(n)
