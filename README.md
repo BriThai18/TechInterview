@@ -44,3 +44,4 @@ that I would be studying and uploading the codes for me to look over.
 - Sum of Unique Elements
 ## BFS
 ## DFS
+## Priority Queue/Binary Heap 
