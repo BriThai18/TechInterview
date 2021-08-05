@@ -28,6 +28,7 @@ that I would be studying and uploading the codes for me to look over.
 - Max Depth
 - Min Depth
 - Path with Sum
+- Sorted Array to Binary Search Tree
 ## Stack
 - Stack min
 - Sort stack
