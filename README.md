@@ -5,6 +5,12 @@ that I would be studying and uploading the codes for me to look over.
 
 
 # Table of Content
+## Array
+- Squares of Sorted Array
+- Missing Number
+- Two Sum
+- Three Sum
+- Subsets
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
