@@ -50,5 +50,6 @@ that I would be studying and uploading the codes for me to look over.
 - Sort Characters By Frequency
 - Sum of Unique Elements
 ## BFS
+- Breadth First Search
 ## DFS
 ## Priority Queue
