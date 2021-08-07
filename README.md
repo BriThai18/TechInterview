@@ -6,6 +6,7 @@ that I would be studying and uploading the codes for me to look over.
 
 # Table of Content
 ## Array
+- Element Appearing More Than 25% in Sorted Array
 - Squares of Sorted Array
 - Missing Number
 - Two Sum
