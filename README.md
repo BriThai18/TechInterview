@@ -56,4 +56,5 @@ that I would be studying and uploading the codes for me to look over.
 ## DFS
 - Depth First Search
 - Number of Islands
+- Island Perimeter
 ## Priority Queue
