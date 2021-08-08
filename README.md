@@ -54,4 +54,5 @@ that I would be studying and uploading the codes for me to look over.
 - Breadth First Search
 - Sum of Left Leaves 
 ## DFS
+- Depth First Search
 ## Priority Queue
