@@ -10,15 +10,17 @@ class Node{
 public class LowestCommonAncestor{
   Node root;
   Node lowestCommonAncestor(Node node, int node1, int node2){
-    if(node == null){
-      return null; 
+    if(node == null || node.data == node1 || node.data == node2){
+      return node; 
     }
-    if(node.data > node1 && node.data > node2){
-      return lowestCommonAncestor(node.left, node1, node2);
+    
+    Node left = lowestCommonAncestor(node.left, node1, node2);
+    Node right = lowestCommonAncestor(node.right, node1, node2);
+    
+    if(left != null && right != null){
+      return node; 
     }
-    if(node.data < node1.data && node.data < node2){
-      return lowestCommonAncestor(node.right, node1, node2);
-    }
-    return node; 
+    
+    return left != null ? left : right; 
   }
 }
