@@ -28,3 +28,5 @@ public class BalancedBinarySearchTree{
     return Math.max(left, right) + 1; 
   }
 }
+
+//Runtime o(n^2)
