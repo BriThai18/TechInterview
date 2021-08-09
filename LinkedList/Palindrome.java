@@ -42,3 +42,5 @@ public class Palindrome{
       return true;
     }
 }
+
+//Runtime o(n)
