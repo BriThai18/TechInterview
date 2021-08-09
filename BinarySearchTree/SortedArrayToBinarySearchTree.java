@@ -26,3 +26,5 @@ public class SortedArrayToBinarySearchTree{
     return root; 
   }
 }
+
+//Runtime o(n)
