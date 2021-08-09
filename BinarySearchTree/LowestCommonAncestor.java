@@ -24,3 +24,5 @@ public class LowestCommonAncestor{
     return left != null ? left : right; 
   }
 }
+
+//Runtime o(n)
