@@ -45,3 +45,5 @@ public class Partition2{
     return beforeStart; 
   }
 }
+
+//Runtime o(n)
