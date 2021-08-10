@@ -12,6 +12,8 @@ that I would be studying and uploading the codes for me to look over.
 - Two Sum
 - Three Sum
 - Subsets
+## String
+- Length of Last Word
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
