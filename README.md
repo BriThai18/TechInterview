@@ -14,6 +14,9 @@ that I would be studying and uploading the codes for me to look over.
 - Subsets
 ## String
 - Length of Last Word
+- String Compression
+- URLify
+- String Rotation 
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
