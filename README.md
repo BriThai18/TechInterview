@@ -62,4 +62,6 @@ that I would be studying and uploading the codes for me to look over.
 - Depth First Search
 - Number of Islands
 - Island Perimeter
-## Priority Queue
+## Dynamic Programming
+- Fibonnaci Sequence
+- Unique Path
