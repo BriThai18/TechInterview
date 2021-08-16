@@ -12,8 +12,6 @@ that I would be studying and uploading the codes for me to look over.
 - Two Sum
 - Three Sum
 - Subsets
-- Maximum Subarray
-- Maximum Product Subarray 
 ## String
 - Length of Last Word
 - String Compression
@@ -72,3 +70,4 @@ that I would be studying and uploading the codes for me to look over.
 - Climbing Stairs
 - Pascal's Triangle
 - Maximum Subarray
+- Maximum Product Subarray 
