@@ -12,6 +12,8 @@ that I would be studying and uploading the codes for me to look over.
 - Two Sum
 - Three Sum
 - Subsets
+- Combinations
+- Longest Consecutive Sequence
 ## String
 - Length of Last Word
 - String Compression
@@ -19,6 +21,7 @@ that I would be studying and uploading the codes for me to look over.
 - String Rotation 
 - String to Integer
 - Group Anagrams
+- Maximum Number of Removable Characters
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
@@ -43,6 +46,7 @@ that I would be studying and uploading the codes for me to look over.
 - Min Depth
 - Path with Sum
 - Sorted Array to Binary Search Tree
+- Construct Binary Tree from Preorder and Postorder Traversal 
 ## Stack
 - Stack min
 - Sort stack
