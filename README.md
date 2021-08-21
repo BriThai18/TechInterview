@@ -46,6 +46,7 @@ that I would be studying and uploading the codes for me to look over.
 - Min Depth
 - Path with Sum
 - Sorted Array to Binary Search Tree
+- Construct Binary Search Tree from Preorder
 - Construct Binary Tree from Preorder and Postorder Traversal 
 ## Stack
 - Stack min
