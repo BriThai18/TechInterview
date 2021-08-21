@@ -48,6 +48,7 @@ that I would be studying and uploading the codes for me to look over.
 - Sorted Array to Binary Search Tree
 - Construct Binary Search Tree from Preorder
 - Construct Binary Tree from Preorder and Postorder Traversal 
+- Construct Binary Tree from Preorder and Inorder Traversal
 ## Stack
 - Stack min
 - Sort stack
