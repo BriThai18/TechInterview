@@ -22,6 +22,7 @@ that I would be studying and uploading the codes for me to look over.
 - String to Integer
 - Group Anagrams
 - Maximum Number of Removable Characters
+- Letter Combinations of a Phone Number
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
