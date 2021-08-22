@@ -29,3 +29,6 @@ public class ConstructBinarySearchTreeFromInorderAndPostorder{
     return root; 
   }
 }
+
+//Runtime o(n)
+//Space o(n)
