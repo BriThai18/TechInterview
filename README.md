@@ -24,6 +24,7 @@ that I would be studying and uploading the codes for me to look over.
 - Maximum Number of Removable Characters
 - Letter Combinations of a Phone Number
 - Longest Palindromic Substring
+- Longest Palindrome
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
