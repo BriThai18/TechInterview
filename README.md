@@ -25,6 +25,7 @@ that I would be studying and uploading the codes for me to look over.
 - Letter Combinations of a Phone Number
 - Longest Palindromic Substring
 - Longest Palindrome
+- Remove Duplicate Letters
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
