@@ -6,7 +6,7 @@ public class RemoveAdjacentDuplicate{
       if(!stack.isEmpty() && x == stack.peek()){
         stack.pop();
       }else{
-        stasck.push(); 
+        stack.push(); 
       }
     }
     
