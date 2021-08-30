@@ -27,6 +27,7 @@ that I would be studying and uploading the codes for me to look over.
 - Longest Palindrome
 - Remove Duplicate Letters
 - Maximum Product of Word Lengths
+- Longest Substring Without Repeating Characters
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
