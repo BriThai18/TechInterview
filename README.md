@@ -14,6 +14,7 @@ that I would be studying and uploading the codes for me to look over.
 - Subsets
 - Combinations
 - Longest Consecutive Sequence
+- Delete Minimal Peak
 ## String
 - Length of Last Word
 - String Compression
