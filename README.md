@@ -15,6 +15,7 @@ that I would be studying and uploading the codes for me to look over.
 - Combinations
 - Longest Consecutive Sequence
 - Delete Minimal Peak
+- Shortest Unsorted Continuous Subarray
 ## String
 - Length of Last Word
 - String Compression
