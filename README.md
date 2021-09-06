@@ -30,6 +30,7 @@ that I would be studying and uploading the codes for me to look over.
 - Remove Duplicate Letters
 - Maximum Product of Word Lengths
 - Longest Substring Without Repeating Characters
+- Integer to Roman
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
