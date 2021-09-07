@@ -16,6 +16,7 @@ that I would be studying and uploading the codes for me to look over.
 - Longest Consecutive Sequence
 - Delete Minimal Peak
 - Shortest Unsorted Continuous Subarray
+- Slowest Key
 ## String
 - Length of Last Word
 - String Compression
