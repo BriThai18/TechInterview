@@ -32,6 +32,7 @@ that I would be studying and uploading the codes for me to look over.
 - Maximum Product of Word Lengths
 - Longest Substring Without Repeating Characters
 - Integer to Roman
+- Check if All Characters Have Equal Number of Occurences
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
