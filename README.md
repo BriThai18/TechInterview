@@ -17,6 +17,7 @@ that I would be studying and uploading the codes for me to look over.
 - Delete Minimal Peak
 - Shortest Unsorted Continuous Subarray
 - Slowest Key
+- Find First and Last Position of Element in Sorted Array
 ## String
 - Length of Last Word
 - String Compression
