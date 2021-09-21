@@ -34,6 +34,7 @@ that I would be studying and uploading the codes for me to look over.
 - Longest Substring Without Repeating Characters
 - Integer to Roman
 - Check if All Characters Have Equal Number of Occurences
+- Verifying an Alien Dictionary
 ## Sorting Algorithm
 - Selection Sort
 - Insertion Sort 
